@@ -3,7 +3,7 @@ print('hello world 1')
 This script prints 'hello world 1' and then generates a list of odd numbers from 1 to 100.
 Functions:
     None
-Variables:
+
     odd_numbers (list): A list to store odd numbers from 1 to 100.
 The script performs the following steps:
 1. Prints 'hello world 1'.
